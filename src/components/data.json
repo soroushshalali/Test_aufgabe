@@ -1,0 +1,113 @@
+{
+    "homeItem": [
+        {
+            "id": "0",
+            "title": "Haar-tuning bei jeder Haarwäsche",
+            "txt1": "Mit magnetischem farbeffekt für anhaltendes Braun",
+            "txt2": "Stimuliert die Harrwurzeln",
+            "txt3": "2-5Minuteneinwirken lassen"
+        },
+        {
+            "id": "1",
+            "title": "Haar tuning direkt nach der Haarwäsche",
+            "txt1": "Mit magnetischem farbeffekt für anhaltendes Braun",
+            "txt2": "Mit Coffein-Complex",
+            "txt3": "2-5Minuteneinwirken lassen"
+        }
+    ],
+    "faq":[
+        {
+            "id":"0",
+            "qu":"Wie oft muss man Lorem Ipsum?",
+            "ans":"1Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"1",
+            "qu":"Wie lange sollte man Lorem?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"2",
+            "qu":"What is Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"3",
+            "qu":"Wie oft muss man Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"4",
+            "qu":"Wie lange sollte man Lorem?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"5",
+            "qu":"What is Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"6",
+            "qu":"Wie oft muss man Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"7",
+            "qu":"Wie lange sollte man Lorem?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"8",
+            "qu":"What is Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"9",
+            "qu":"Wie lange sollte man Lorem?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"10",
+            "qu":"Wie oft muss man Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"11",
+            "qu":"What is Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"12",
+            "qu":"Wie oft muss man Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"13",
+            "qu":"What is Lorem Ipsum?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        },
+        {
+            "id":"14",
+            "qu":"Wie lange sollte man Lorem?",
+            "ans":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
